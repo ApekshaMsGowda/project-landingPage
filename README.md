@@ -33,7 +33,3 @@ This project is a practice landing page created to improve my HTML and CSS skill
 - Creating buttons and sections
 - Using Git and GitHub to manage and publish my project
 
-## Credits
-
-This project was created while following  
-[The Odin Project](https://www.theodinproject.com/) curriculum.
